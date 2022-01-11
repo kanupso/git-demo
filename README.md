@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+## Website Contents
 
-testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
+1. Index.html
 
-test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2test2
